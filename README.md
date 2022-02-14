@@ -5,7 +5,7 @@ My name is Przemysław Krzyżak. Teamplayer, hardworker and positive thinker.
 After long and exhausting fight with depression (which of course I won.) I took care of myself and my career.  
 So my decision was return to IT, which was my former love. (depression made me quit college)  
 I chose the path of Manual Tester, and in near future I aim at automation.  
-Fresh husband, petrolhead and a cat dad. [*meow*](https://i.imgur.com/UKv3lGv.jpeg)
+Fresh husband, petrolhead, [horde](https://images7.alphacoders.com/298/thumb-1920-298770.jpg) lover and a cat dad. [*meow*](https://i.imgur.com/UKv3lGv.jpeg)
 ## Tools
 - Jira, TestLink - issue tracing and project management tool for developers
 - Postman, SoapUI - testing tool for REST API
