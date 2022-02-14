@@ -41,9 +41,11 @@ Every tech here is on junior level.
 - [testerzy.pl](https://testerzy.pl/)
 - [mrugalski.pl](https://mrugalski.pl/)
 ## My test case examples
-
+## My test plan examples
+- [CodersGuru application test plan](https://drive.google.com/file/d/1smUBvoyGnuBIS3myzgfeGhSmpIEGEy0B/view?usp=sharing) - part of Coders Lab course
 ## My bug reports
 ## My examples of diagrams and decision tables
 ## My projects
 - Individual project on Coders Lab Course. Testing MyStore application
+  - [Test plan](
   - [Report](https://drive.google.com/file/d/1I7cPSBommyedKf3ugq4RiTOHiKAn243e/view?usp=sharing)
