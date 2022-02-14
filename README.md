@@ -2,18 +2,18 @@
 My Tester's Portfolio
 ## About me
 My name is Przemysław Krzyżak. Teamplayer, hardworker and a cat lover. [*meow*](https://imgur.com/UKv3lGv)
-After long and exhausting fight with depression (which I won ofc.) I took care of myself and my career.
-So my decision was to come back to IT. 
+After long and exhausting fight with depression (which of course I won.) I took care of myself and my career.
+So my decision was return to IT, which was my former love. I chose the path of Manual Tester, and in near future I aim at automation.
 ## Tools
-- Jira
-- TestLink
-- Postman, SoapUI
-- MS Office
-- VSCode
-- PyCharm
-- Todoist
-- Whimsical
+- Jira, TestLink - issue tracing and project management tool for developers
+- Postman, SoapUI - testing tool for REST API
+- VSCode - opensource code editor
+- PyCharm - integrated development environment (IDE) for Python
+- Todoist - "ToDo" list 
+- Whimsical - mind maps
+- Canva - social media graphics
 - Github
+- MS Office - especially excel and word
 ## Tech stack
 Every tech here is on junior level.
 - MySQL
@@ -27,6 +27,8 @@ Every tech here is on junior level.
 ## Certificates
 - [ISTQB](https://drive.google.com/file/d/1bB8aBwBpt4k5RcqQRbAmGRLrTCXQvo-G/view?usp=sharing) - No17565/CTFL/2022 - [PL](https://drive.google.com/file/d/18Ycd6-iDSAFnyQGzEw1uXf9__uk7Yb1W/view?usp=sharing)
 - [Manual Tester Course](https://drive.google.com/file/d/1lIGff9QsxJsbfT_k1-6tUISk_a3GUhVR/view?usp=sharing) by [Coders Lab](https://coderslab.pl/pl/tester-manualny)
+## Courses
+
 ## Books
 - Adam Roman, Lucjan Stapp - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 - Beata Błaszczyk - [English 4 IT](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d)
@@ -37,6 +39,7 @@ Every tech here is on junior level.
 - [Niebezpiecznik](https://niebezpiecznik.pl/)
 - [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
 - [testerzy.pl](https://testerzy.pl/)
+- [mrugalski.pl](https://mrugalski.pl/)
 ## My test case examples
 ## My bug reports
 ## My examples of diagrams and decision tables
