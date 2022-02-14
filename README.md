@@ -40,12 +40,11 @@ Every tech here is on junior level.
 - [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
 - [testerzy.pl](https://testerzy.pl/)
 - [mrugalski.pl](https://mrugalski.pl/)
-## My test case examples
 ## My test plan examples
 - [CodersGuru application test plan](https://drive.google.com/file/d/1smUBvoyGnuBIS3myzgfeGhSmpIEGEy0B/view?usp=sharing) - part of Coders Lab course
-## My bug reports
 ## My examples of diagrams and decision tables
 ## My projects
 - Individual project on Coders Lab Course. Testing MyStore application
-  - [Test plan](
+  - [Test cases](https://drive.google.com/drive/folders/1_536hZX2PHRaGZ7y289ljaR9Eh4cVv8R?usp=sharing)
   - [Report](https://drive.google.com/file/d/1I7cPSBommyedKf3ugq4RiTOHiKAn243e/view?usp=sharing)
+  - [Regression tests](https://drive.google.com/file/d/1vyGDJMAA4x7YV2-6gXko7LvSzYfM1X3W/view?usp=sharing)
