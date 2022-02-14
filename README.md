@@ -1,9 +1,11 @@
-# portfolio
+# My portfolio
 My Tester's Portfolio
 ## About me
+My name is Przemysław Krzyżak. Teamplayer, hardworker and a cat lover. [*meow*](
 ## Tools
 ## Tech
 ## Certificates
+- [ISTQB](https://drive.google.com/file/d/1bB8aBwBpt4k5RcqQRbAmGRLrTCXQvo-G/view?usp=sharing)
 ## Courses
 ## Books
 ## Groups on Facebook
