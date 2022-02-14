@@ -2,6 +2,7 @@
 My Tester's Portfolio
 ## About me
 My name is Przemysław Krzyżak. Teamplayer, hardworker and a cat lover. [*meow*](https://imgur.com/UKv3lGv)
+After long and exhausting fight with depression (which I
 ## Tools
 ## Tech
 ## Certificates
