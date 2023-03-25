@@ -2,10 +2,10 @@
 My Tester's Portfolio
 ## About me
 My name is Przemysław Krzyżak. I'm team player, hard worker and positive thinker.  
-After a long and exhausting fight with depression (which, of course, I won.) I took care of myself and my career.  
-So my decision was return to IT, which was my former love. (depression made me quit college)  
-After I earned my first experience I don't regret any decissions I made and can gladly say that the path of testing is ideal for me.  
-Every step forward that I take is taken with goal of constant self-improvement.
+After a long and exhausting fight with depression (which, of course, I won) I took care of myself and my career.  
+So my decision was to return to IT, which was my former love.    
+After earning my first experiences I can gladly say that the path of testing is ideal for me.  
+Every step forward is a self-improvement for me and helps me to achieve my goals.  
 ## Experience
 - Dell Technologies - Agile methodology (scrum) - project related to the development of "all-in-one" installer for more of company products.  
 I was responsible for maintaining test plans and tests cases, integrating qTest with Jira tickets, execution of automated tests (Robot Framework), regression planning,   
