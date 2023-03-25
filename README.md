@@ -22,7 +22,7 @@ Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scri
 - Github
 - MS Office 
 ## Tech stack
-- MySQL
+- SQL
 - Agile methodologies- SCRUM, Kanban
 - Git
 - Waterfall methodology
