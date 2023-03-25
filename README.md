@@ -7,10 +7,10 @@ So my decision was to return to IT, which was my former love.
 After earning my first experiences I can gladly say that the path of testing is ideal for me.  
 Every step forward is a self-improvement for me and helps me to achieve my goals.  
 ## Experience
-- Dell Technologies - Agile methodology (scrum) - project related to the development of "all-in-one" installer for more of company products.  
-I was responsible for maintaining test plans and tests cases, integrating qTest with Jira tickets, execution of automated tests (Robot Framework), regression planning,   
-Technologies/Tools used: Jira, GIT, Confluence, qTest, Linux/Windows terminal; creating, updating and maintaining Virtual Machines, 
-- Fara AS - Agile methodology (scrum) - working on project for Scandinavian (Sweden, Norway, Island) public transportation solutions.  
+- Dell Technologies - Agile methodology (scrum) - project related to the development of "all-in-one" installer of company products.  
+I was responsible for maintaining test plans and test cases, integrating qTest with Jira tickets, execution of automated tests (Robot Framework), regression planning   
+Technologies/Tools used: Jira, GIT, Confluence, qTest, Linux/Windows terminal; creating, updating and maintaining Virtual Machines 
+- Fara AS - Agile methodology (scrum) - working on project for Scandinavian (Sweden, Norway, Island) public transport solutions.  
 I was testing Android handheld device and phone application for Android and IOS. Was responsible for testing and configuring terminals and printers.  
 Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scripts, reading and interpreting logs from app, simple API testing, SQL, regression planning, presenting demos for client
 ## Tools
@@ -37,7 +37,7 @@ Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scri
 - [Manual Tester Course](https://drive.google.com/file/d/1lIGff9QsxJsbfT_k1-6tUISk_a3GUhVR/view?usp=sharing) by [Coders Lab](https://coderslab.pl/pl/tester-manualny)
 ## Courses
 - Python 3 - by Arkadiusz Włodarczyk on [udemy.com](https://www.udemy.com)
-- Kurs tworzenia stron www w HTML i CSS on [udemy.com](https://www.udemy.com)
+- "Kurs tworzenia stron www w HTML i CSS" - by Arkadiusz Włodarczyk on [udemy.com](https://www.udemy.com)
 ## Books
 - Adam Roman, Lucjan Stapp - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 - Beata Błaszczyk - [English 4 IT](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d)
