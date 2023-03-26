@@ -12,7 +12,7 @@ I was responsible for maintaining test plans and test cases, integrating qTest w
 Technologies/Tools used: Jira, GIT, Confluence, qTest, Linux/Windows terminal; creating, updating and maintaining Virtual Machines 
 - Fara AS - Agile methodology (scrum) - working on project for Scandinavian (Sweden, Norway, Island) public transport solutions.  
 I was testing Android handheld device and phone application for Android and IOS. Was responsible for testing and configuring terminals and printers.  
-Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scripts, reading and interpreting logs from app, simple API testing, SQL, regression planning, presenting demos for client
+Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scripts, reading and interpreting logs from app, simple API testing, SQL, regression planning, presenting demos for client  
 ## Tools
 - Jira, TestLink, qTest - issue tracing and project management
 - VSCode 
