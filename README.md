@@ -38,6 +38,9 @@ Technologies/Tools used: Jira, GIT, Confluence, Linux Terminal, simple BASH scri
 ## Courses
 - Python 3 - by Arkadiusz Włodarczyk on [udemy.com](https://www.udemy.com)
 - "Kurs tworzenia stron www w HTML i CSS" - by Arkadiusz Włodarczyk on [udemy.com](https://www.udemy.com)
+- Introduction to Microsoft Azure - by Rafał Mobilo on [udemy.com](https://www.udemy.com)
+- Postman - by Arkadiusz Włodarczyk on [udemy.com](https://www.udemy.com)
+- "The comprehensive SQL course" - by Malvik Vaghadia on [udemy.com](https://www.udemy.com)
 ## Books
 - Adam Roman, Lucjan Stapp - [Certyfikowany tester ISTQB. Poziom podstawowy](https://helion.pl/ksiazki/certyfikowany-tester-istqb-poziom-podstawowy-adam-roman-lucjan-stapp,ctispp.htm#format/d)
 - Beata Błaszczyk - [English 4 IT](https://helion.pl/ksiazki/english-4-it-praktyczny-kurs-jezyka-angielskiego-dla-specjalistow-it-i-nie-tylko-beata-blaszczyk,anginv.htm#format/d)
